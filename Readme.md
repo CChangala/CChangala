@@ -17,7 +17,8 @@ I’m a full-stack engineer with a strong backend foundation and growing experie
 📌 Selected projects:
 - MysteryAI – Real-time interactive ML-powered platform
 - AI Document Processing Service – Backend pipelines and APIs
-- Full-stack dashboards and data-driven web apps (more below)
+- CodeCards – Full-stack learning platform (API, database, and UI)
+- CDC Pharmacy Data Pipeline – End-to-end data ingestion and analytics pipeline
 
 I like working on systems that connect data, applications, and users in a clean and reliable way.
 
